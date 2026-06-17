@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.0/NutriPlanAI.apk",
-  "changelog": "• Versione corrente di NutriPlan AI.",
-  "sha256": null,
-  "apkSizeBytes": null,
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.1/NutriPlanAI.apk",
+  "changelog": "• Correzione importante: gli aggiornamenti non cancellano più i dati (migrazioni del database).\n• Unità liquide (ml) per alimenti, prodotti e voci di diario.",
+  "sha256": "709783ab85b50448da52cddadefdf7488120a72904a4d4ca08d559981d618f7d",
+  "apkSizeBytes": 24628501,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
