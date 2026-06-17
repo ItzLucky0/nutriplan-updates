@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.0/NutriPlanAI.apk",
+  "changelog": "• Versione corrente di NutriPlan AI.",
+  "sha256": null,
+  "apkSizeBytes": null,
+  "mandatory": false,
+  "minSupportedVersionCode": 0
+}
