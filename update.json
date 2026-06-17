@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.1/NutriPlanAI.apk",
-  "changelog": "• Correzione importante: gli aggiornamenti non cancellano più i dati (migrazioni del database).\n• Unità liquide (ml) per alimenti, prodotti e voci di diario.",
-  "sha256": "709783ab85b50448da52cddadefdf7488120a72904a4d4ca08d559981d618f7d",
-  "apkSizeBytes": 24628501,
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.2/NutriPlanAI.apk",
+  "changelog": "• Aggiunti tanti prodotti fast food: McDonald's (Big Mac, Gran Crispy McBacon, McChicken…), Burger King, KFC e altri.\n• I prodotti fast food hanno già la porzione pronta: li selezioni e la quantità si compila da sola.\n• Catalogo ampliato a oltre 900 alimenti.",
+  "sha256": "88f9ddbfa6af4def0adb1915f2d9a135f00828da943af603f8c40a1cf2fdecfe",
+  "apkSizeBytes": 24630293,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
