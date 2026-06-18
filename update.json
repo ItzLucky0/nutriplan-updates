@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.8/NutriPlanAI.apk",
-  "changelog": "• Durante la creazione del piano con AI ora vedi un cronometro con i secondi trascorsi.",
-  "sha256": "8fcbece26438ad7dfdd004cf9645886c421eb8d7bd7b297409b7f895b93d6c3e",
-  "apkSizeBytes": 24646677,
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.9/NutriPlanAI.apk",
+  "changelog": "• Nuovo: preset di dieta giornaliera. Crea diete riutilizzabili da zero, oppure salva un giorno del diario come preset.\n• Applica un preset a qualunque giorno dal diario (icona segnalibro in alto), scegliendo se aggiungerlo ai pasti o sostituire il giorno.",
+  "sha256": "a279ae48b78b931498dd802b4b5a07d39692bcb79e8fcb44ebd32313f5f3b932",
+  "apkSizeBytes": 24663061,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
