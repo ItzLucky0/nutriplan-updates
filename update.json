@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.5/NutriPlanAI.apk",
-  "changelog": "• Generazione del piano con AI più affidabile: ora viene creato un giorno alla volta, così non va più in timeout, ed è mostrato l'avanzamento (giorno X di 7).\n• Se un giorno non riesce, viene completato in automatico senza far fallire l'intero piano.",
-  "sha256": "64968c682a03df79ca0b07444e564d9c4e5f2ac29770de15fcd366db2c081375",
-  "apkSizeBytes": 24646677,
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.6/NutriPlanAI.apk",
+  "changelog": "• Il piano ora si crea un giorno alla volta: \"Genera con AI\" crea solo il giorno che stai guardando, con una sola richiesta — più veloce e niente attese lunghe.\n• Puoi rigenerare un singolo giorno senza toccare gli altri; i pasti del giorno evitano di ripetere quelli già presenti negli altri giorni.",
+  "sha256": "d952dd49b4474fe0aec77de6037f4197e7379ef26b9436b51605e4bd31b6e99e",
+  "apkSizeBytes": 24646673,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
