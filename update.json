@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.7/NutriPlanAI.apk",
-  "changelog": "• Più tempo per la generazione del piano con AI: con i modelli più lenti non comparirà più l'errore di timeout (l'attesa può arrivare a un paio di minuti).",
-  "sha256": "3f944d6ce2f9f4c717955b6b2c91f8bcf5d31c55395b2a20662b53dff6ade016",
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.8/NutriPlanAI.apk",
+  "changelog": "• Durante la creazione del piano con AI ora vedi un cronometro con i secondi trascorsi.",
+  "sha256": "8fcbece26438ad7dfdd004cf9645886c421eb8d7bd7b297409b7f895b93d6c3e",
   "apkSizeBytes": 24646677,
   "mandatory": false,
   "minSupportedVersionCode": 0
