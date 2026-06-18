@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.3/NutriPlanAI.apk",
-  "changelog": "• Nuova schermata \"Note di rilascio\" (sotto Cerca aggiornamenti): lo storico di tutte le versioni e cosa è cambiato in ognuna, aggiornato a ogni release.",
-  "sha256": "233408e21fbebbfe0fc83eb6018e51a1a8c2d204224e686c6dc8e990fe3e511a",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.4/NutriPlanAI.apk",
+  "changelog": "• Piano AI più fedele alle tue preferenze: gli \"alimenti preferiti\" sono usati come linee guida, anche per singolo pasto, e il piano viene costruito attorno a quelle scelte.\n• Gli \"alimenti da evitare\" sono esclusi in modo rigoroso, anche solo da un pasto specifico se lo indichi (es. \"niente pesce a cena\").\n• Suggerimenti nei campi delle preferenze per scriverle pasto per pasto.\n• Modello AI aggiornato a GPT-5 per piani più precisi e coerenti.",
+  "sha256": "2627a815081a367cef42b320f0e45901322686e4df41ff2ff739ed883d0980e9",
   "apkSizeBytes": 24646677,
   "mandatory": false,
   "minSupportedVersionCode": 0
