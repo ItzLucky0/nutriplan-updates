@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.1/NutriPlanAI.apk",
-  "changelog": "• Risolto: durante la creazione o la modifica di un alimento personalizzato la tastiera non copre più i campi in basso — il contenuto si solleva e puoi scorrere fino al campo che stai compilando.",
-  "sha256": "d95f906f9d1037d0d48fb17d1d31287482146ae9f490533a427d382e70048cd6",
+  "versionCode": 14,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.2/NutriPlanAI.apk",
+  "changelog": "• Le sezioni dei pasti (Colazione, Pranzo, Spuntino, Cena) ora usano icone al posto delle emoji: più pulite e si tingono con il colore del tema scelto.",
+  "sha256": "2477377d5ff74b6cccb521a1ca069254b9b94c50c65ab0a9e86da423960ac26e",
   "apkSizeBytes": 24679445,
   "mandatory": false,
   "minSupportedVersionCode": 0
