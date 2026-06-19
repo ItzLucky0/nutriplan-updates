@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.3/NutriPlanAI.apk",
-  "changelog": "• Aggiornate le icone delle sezioni pasto: cornetto per la Colazione e biscotto per lo Spuntino (Pranzo con le posate, Cena con il piatto). Come sempre si tingono con il colore del tema scelto.",
-  "sha256": "7ede7b63bbfa37efa5c15d7dc4437daaeff68f5953a2ae33163dbf15f6a9ffac",
+  "versionCode": 16,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.4/NutriPlanAI.apk",
+  "changelog": "• Corretta la leggibilità nei temi scuri (Scuro e AI Modern): i titoli e i testi di sezione che apparivano scuri su sfondo scuro ora hanno il contrasto giusto e si leggono bene.",
+  "sha256": "f5f46d168d6854b726356184dee6be1624fea205a796bbb9b403ebe74162ffeb",
   "apkSizeBytes": 24679445,
   "mandatory": false,
   "minSupportedVersionCode": 0
