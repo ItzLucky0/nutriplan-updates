@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.9",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.1.9/NutriPlanAI.apk",
-  "changelog": "• Nuovo: preset di dieta giornaliera. Crea diete riutilizzabili da zero, oppure salva un giorno del diario come preset.\n• Applica un preset a qualunque giorno dal diario (icona segnalibro in alto), scegliendo se aggiungerlo ai pasti o sostituire il giorno.",
-  "sha256": "a279ae48b78b931498dd802b4b5a07d39692bcb79e8fcb44ebd32313f5f3b932",
-  "apkSizeBytes": 24663061,
+  "versionCode": 12,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.0/NutriPlanAI.apk",
+  "changelog": "• Foto del piatto rinnovata: ora puoi scattare più foto dello stesso pasto.\n• Prima di analizzare puoi rivedere gli scatti ed eliminare o rifare quelli venuti male.\n• Nuova casella \"Dettagli per l'IA\": aggiungi qualche info (es. \"pasta integrale ~120g con pesto\") per un riconoscimento più preciso.\n• Riconoscimento automatico delle foto ora attivo e più affidabile.",
+  "sha256": "4f182b6eceba50d22da7d7b47a33abfaabc2c16976e6d4819384b53072ad2967",
+  "apkSizeBytes": 24679445,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
