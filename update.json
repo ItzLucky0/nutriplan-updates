@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.0/NutriPlanAI.apk",
-  "changelog": "• Foto del piatto rinnovata: ora puoi scattare più foto dello stesso pasto.\n• Prima di analizzare puoi rivedere gli scatti ed eliminare o rifare quelli venuti male.\n• Nuova casella \"Dettagli per l'IA\": aggiungi qualche info (es. \"pasta integrale ~120g con pesto\") per un riconoscimento più preciso.\n• Riconoscimento automatico delle foto ora attivo e più affidabile.",
-  "sha256": "4f182b6eceba50d22da7d7b47a33abfaabc2c16976e6d4819384b53072ad2967",
+  "versionCode": 13,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.1/NutriPlanAI.apk",
+  "changelog": "• Risolto: durante la creazione o la modifica di un alimento personalizzato la tastiera non copre più i campi in basso — il contenuto si solleva e puoi scorrere fino al campo che stai compilando.",
+  "sha256": "d95f906f9d1037d0d48fb17d1d31287482146ae9f490533a427d382e70048cd6",
   "apkSizeBytes": 24679445,
   "mandatory": false,
   "minSupportedVersionCode": 0
