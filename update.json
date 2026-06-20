@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.0/NutriPlanAI.apk",
-  "changelog": "• Suggerimento del giorno personalizzato e vero: ora si basa sui tuoi dati reali (calorie e proteine rimanenti, pasti registrati, acqua, aderenza, andamento del peso) e cita i tuoi numeri.\n• È reattivo: si aggiorna durante la giornata man mano che registri i pasti.\n• Con l'AI attiva i consigli diventano ancora più naturali e specifici; senza connessione restano comunque pertinenti.",
-  "sha256": "b441783a324c56ec663b229dfe206cb7186d4a110b6766b0f2773f708e1fbac7",
+  "versionCode": 20,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.1/NutriPlanAI.apk",
+  "changelog": "• Pagina \"Profilo e obiettivo\" rinnovata: avatar, sezioni più chiare e selettore Uomo/Donna a icone.\n• Obiettivo ora visualizzato: peso attuale → obiettivo, chili da perdere/mettere e ritmo settimanale, aggiornati mentre digiti.\n• Livello di attività con icone e descrizioni, più facile da scegliere.",
+  "sha256": "685f9cd9538cb0a2ca0a9dbf90b557d4650d61d7adc05cb2e8d04bf061546a7c",
   "apkSizeBytes": 25029109,
   "mandatory": false,
   "minSupportedVersionCode": 0
