@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.4.10",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.10/NutriPlanAI.apk",
-  "changelog": "• Impostazioni rinnovate: voci con icona colorata in evidenza, raggruppate in \"Personalizza\" e \"App e dati\", tema attivo evidenziato e nuovo riquadro con l'identità dell'app.",
-  "sha256": "535b80a088075c286122c3bb36fb7eb67adb7bb2be590555c798ae450041456e",
+  "versionCode": 30,
+  "versionName": "1.4.11",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.11/NutriPlanAI.apk",
+  "changelog": "• Home rinnovata: saluto con avatar, suggerimento del giorno con icona in evidenza, e pasti, acqua, peso e lista della spesa con icone colorate in cerchio e calorie a badge.",
+  "sha256": "8baed27e9c672fdaf56f23937b7d6bb1ca84a3e9fbb815584c1d84f8750c921c",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
