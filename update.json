@@ -1,10 +1,10 @@
 {
-  "versionCode": 26,
-  "versionName": "1.4.7",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.7/NutriPlanAI.apk",
-  "changelog": "• Pagina Backup e dati rinnovata: azioni più chiare con icone in evidenza, e il reset completo separato in una \"Zona pericolosa\".",
-  "sha256": "6ce6cc81ce3e9538df82ed88cedab430f25d600c6be53ed56fdf7e571679dc72",
-  "apkSizeBytes": 25045489,
+  "versionCode": 27,
+  "versionName": "1.4.8",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.8/NutriPlanAI.apk",
+  "changelog": "• Pagina Progressi rinnovata: barra di avanzamento verso l'obiettivo nel riepilogo peso, e card con icone (andamento peso, ultima settimana).",
+  "sha256": "8da6cf7bf02f0958cc0b311636404037d2f017ce8ab8efda4c59b999763e8f04",
+  "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
