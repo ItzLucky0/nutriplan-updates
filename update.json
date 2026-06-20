@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "1.4.9",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.9/NutriPlanAI.apk",
-  "changelog": "• Primo avvio (onboarding) rinnovato: contatore dei passi e schede di scelta (attività, tempo per cucinare) con icone dedicate e segno di spunta.",
-  "sha256": "d71796fc9017939f85c383b61880a914aa50370e1b166cdb5a193c7ae73914a4",
+  "versionCode": 29,
+  "versionName": "1.4.10",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.10/NutriPlanAI.apk",
+  "changelog": "• Impostazioni rinnovate: voci con icona colorata in evidenza, raggruppate in \"Personalizza\" e \"App e dati\", tema attivo evidenziato e nuovo riquadro con l'identità dell'app.",
+  "sha256": "535b80a088075c286122c3bb36fb7eb67adb7bb2be590555c798ae450041456e",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
