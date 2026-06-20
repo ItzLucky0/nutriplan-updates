@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.5",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.5/NutriPlanAI.apk",
-  "changelog": "• Diario rinnovato: ogni pasto è ora un blocco-card chiaro (icona, calorie totali e voci in elenco), più ordinato a colpo d'occhio.\n• Navigazione tra i giorni più comoda: selettore a pillola con scorciatoia \"torna a oggi\".",
-  "sha256": "37ab299a1790c07d9e3039e5365e7a96d672afdb1b0cc9175f80432c376c42a7",
-  "apkSizeBytes": 25029109,
+  "versionCode": 25,
+  "versionName": "1.4.6",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.6/NutriPlanAI.apk",
+  "changelog": "• Lista della spesa rinnovata: riepilogo in alto con avanzamento (presi su totale, barra e percentuale), e ogni categoria è una card con la sua icona e il conteggio.",
+  "sha256": "086ffef439f65f5c19c0d74b44b03dcf0b922445dc950955b7d616d3a7cab8d2",
+  "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
