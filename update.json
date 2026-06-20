@@ -1,9 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "1.4.11",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.11/NutriPlanAI.apk",
-  "changelog": "• Home rinnovata: saluto con avatar, suggerimento del giorno con icona in evidenza, e pasti, acqua, peso e lista della spesa con icone colorate in cerchio e calorie a badge.",
-  "sha256": "8baed27e9c672fdaf56f23937b7d6bb1ca84a3e9fbb815584c1d84f8750c921c",
+  "versionCode": 31,
+  "versionName": "1.4.12",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.12/NutriPlanAI.apk",
+  "changelog": "• Niente più emoji nell'app: ovunque icone coerenti col tema (avatar, suggerimenti, notifiche, pulsanti).\n• Ridisegnate le schermate AI \"Scrivi cosa hai mangiato\" e \"Le tue foto\" con intestazione a icona.\n• Aggiungi pasto con icone per sezione; preset e dialoghi di aggiornamento più curati.",
+  "sha256": "47f00035e7536420ba10acbd44c5b9b0b54af24db5966a01238fa5490c9ca0f9",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
