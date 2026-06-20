@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "1.4.13",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.13/NutriPlanAI.apk",
-  "changelog": "• Aggiungi pasto più ordinata: i quattro pulsanti sono distribuiti e centrati, e le sezioni del pasto sono in una griglia 2×2 simmetrica (niente più la Cena tagliata).",
-  "sha256": "ea6c35cd7b48635aaff65dd88ed09a948c6c53c527836a35a4be1dd90c91f863",
+  "versionCode": 33,
+  "versionName": "1.4.14",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.14/NutriPlanAI.apk",
+  "changelog": "• Preset di dieta più chiari: un foglio spiega cosa sono, il pulsante Preset è ben visibile nel diario, e ogni preset mostra un'anteprima dei pasti con l'azione Applica.\n• Crea un preset da zero con un tocco e vedi pasti e calorie mentre lo costruisci.\n• Salvataggio della giornata e dialoghi più comprensibili.",
+  "sha256": "08d375f668d4135ccbf72463305bbff66c470ac1673f2a163ff1d102d1f92049",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
