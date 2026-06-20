@@ -1,10 +1,10 @@
 {
-  "versionCode": 34,
-  "versionName": "1.4.15",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.15/NutriPlanAI.apk",
-  "changelog": "• Nei preset i pasti sono sempre in ordine: colazione, pranzo, spuntino, cena — qualunque sia l'ordine in cui li aggiungi.",
-  "sha256": "84e0bfd20c5964bb7f226edb2be3f1d31e3c2662cf15382f10838febf1c6e87c",
-  "apkSizeBytes": 25045493,
+  "versionCode": 35,
+  "versionName": "1.4.16",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.16/NutriPlanAI.apk",
+  "changelog": "• Diario: il pulsante dei preset è di nuovo una semplice icona, senza etichetta né sfondo.",
+  "sha256": "a4aabec94d6a6926a40d2dbb96b07672288fcaa7b988133237efc72244f74f4f",
+  "apkSizeBytes": 25045489,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
