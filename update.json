@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.8/NutriPlanAI.apk",
-  "changelog": "• Pagina Progressi rinnovata: barra di avanzamento verso l'obiettivo nel riepilogo peso, e card con icone (andamento peso, ultima settimana).",
-  "sha256": "8da6cf7bf02f0958cc0b311636404037d2f017ce8ab8efda4c59b999763e8f04",
+  "versionCode": 28,
+  "versionName": "1.4.9",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.9/NutriPlanAI.apk",
+  "changelog": "• Primo avvio (onboarding) rinnovato: contatore dei passi e schede di scelta (attività, tempo per cucinare) con icone dedicate e segno di spunta.",
+  "sha256": "d71796fc9017939f85c383b61880a914aa50370e1b166cdb5a193c7ae73914a4",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
