@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.2/NutriPlanAI.apk",
-  "changelog": "• Pagina \"Preferenze alimentari\" rinnovata, in linea con la pagina Profilo: sezioni in card con icone (stile alimentare, allergie, gusti) e i selettori di pasti, tempo di cottura e budget raggruppati sotto \"La tua giornata\".",
-  "sha256": "cc78e636f6f6367fbf340798ae85cffe93bf91463b0b2c5f28de257cbb5279bf",
+  "versionCode": 22,
+  "versionName": "1.4.3",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.3/NutriPlanAI.apk",
+  "changelog": "• Pagina Notifiche rinnovata: ogni promemoria ha la sua icona che si accende quando è attivo, e l'orario è un comodo chip da toccare.",
+  "sha256": "d4aae197696b2037e4998f57a4155e25a68a8704ac6fcfc93b7f588108a37163",
   "apkSizeBytes": 25029109,
   "mandatory": false,
   "minSupportedVersionCode": 0
