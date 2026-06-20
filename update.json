@@ -1,9 +1,9 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.12",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.12/NutriPlanAI.apk",
-  "changelog": "• Niente più emoji nell'app: ovunque icone coerenti col tema (avatar, suggerimenti, notifiche, pulsanti).\n• Ridisegnate le schermate AI \"Scrivi cosa hai mangiato\" e \"Le tue foto\" con intestazione a icona.\n• Aggiungi pasto con icone per sezione; preset e dialoghi di aggiornamento più curati.",
-  "sha256": "47f00035e7536420ba10acbd44c5b9b0b54af24db5966a01238fa5490c9ca0f9",
+  "versionCode": 32,
+  "versionName": "1.4.13",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.13/NutriPlanAI.apk",
+  "changelog": "• Aggiungi pasto più ordinata: i quattro pulsanti sono distribuiti e centrati, e le sezioni del pasto sono in una griglia 2×2 simmetrica (niente più la Cena tagliata).",
+  "sha256": "ea6c35cd7b48635aaff65dd88ed09a948c6c53c527836a35a4be1dd90c91f863",
   "apkSizeBytes": 25045493,
   "mandatory": false,
   "minSupportedVersionCode": 0
