@@ -1,10 +1,10 @@
 {
-  "versionCode": 18,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.3.1/NutriPlanAI.apk",
-  "changelog": "• Catalogo offline ampliato a oltre 10.000 prodotti: aggiunti i prodotti italiani più diffusi da Open Food Facts (marche e confezionati), disponibili nella ricerca anche senza connessione.\n• I tuoi alimenti personalizzati restano intatti.",
-  "sha256": "323aa3cf2183fc572b0f1eaa4cddf3c53036bc763cca3e97ce8b380daa7dd8cc",
-  "apkSizeBytes": 25012725,
+  "versionCode": 19,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.0/NutriPlanAI.apk",
+  "changelog": "• Suggerimento del giorno personalizzato e vero: ora si basa sui tuoi dati reali (calorie e proteine rimanenti, pasti registrati, acqua, aderenza, andamento del peso) e cita i tuoi numeri.\n• È reattivo: si aggiorna durante la giornata man mano che registri i pasti.\n• Con l'AI attiva i consigli diventano ancora più naturali e specifici; senza connessione restano comunque pertinenti.",
+  "sha256": "b441783a324c56ec663b229dfe206cb7186d4a110b6766b0f2773f708e1fbac7",
+  "apkSizeBytes": 25029109,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
