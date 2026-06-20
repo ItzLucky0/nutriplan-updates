@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.2.4/NutriPlanAI.apk",
-  "changelog": "• Corretta la leggibilità nei temi scuri (Scuro e AI Modern): i titoli e i testi di sezione che apparivano scuri su sfondo scuro ora hanno il contrasto giusto e si leggono bene.",
-  "sha256": "f5f46d168d6854b726356184dee6be1624fea205a796bbb9b403ebe74162ffeb",
+  "versionCode": 17,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.3.0/NutriPlanAI.apk",
+  "changelog": "• Catalogo enorme: cercando un alimento ora puoi toccare \"Cerca online\" per trovare migliaia di prodotti italiani da Open Food Facts (marche e confezionati) con i valori nutrizionali già pronti.\n• Il prodotto scelto dalla ricerca online resta salvato nel catalogo, così la volta dopo lo trovi anche senza connessione.",
+  "sha256": "850091ddd8263183221c1f9498d78f9df2fe1bd913abdd8fd7deba6df4445196",
   "apkSizeBytes": 24679445,
   "mandatory": false,
   "minSupportedVersionCode": 0
