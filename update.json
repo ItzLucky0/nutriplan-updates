@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.3/NutriPlanAI.apk",
-  "changelog": "• Pagina Notifiche rinnovata: ogni promemoria ha la sua icona che si accende quando è attivo, e l'orario è un comodo chip da toccare.",
-  "sha256": "d4aae197696b2037e4998f57a4155e25a68a8704ac6fcfc93b7f588108a37163",
+  "versionCode": 23,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.4/NutriPlanAI.apk",
+  "changelog": "• Pagina Piano settimanale rinnovata: nuovo selettore dei giorni a striscia (giorno + data, pallino sui giorni con pasti, oggi evidenziato).\n• Riepilogo del giorno con barra rispetto al target e macronutrienti, e card dei pasti più chiare con icona, calorie e valori (P/C/G, tempo) a colpo d'occhio.",
+  "sha256": "3f1577a5753a4126d96fdcc7098e7cd89433fe9313e6323b3f75af5a3784fdc1",
   "apkSizeBytes": 25029109,
   "mandatory": false,
   "minSupportedVersionCode": 0
