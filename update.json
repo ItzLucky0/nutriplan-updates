@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.1/NutriPlanAI.apk",
-  "changelog": "• Pagina \"Profilo e obiettivo\" rinnovata: avatar, sezioni più chiare e selettore Uomo/Donna a icone.\n• Obiettivo ora visualizzato: peso attuale → obiettivo, chili da perdere/mettere e ritmo settimanale, aggiornati mentre digiti.\n• Livello di attività con icone e descrizioni, più facile da scegliere.",
-  "sha256": "685f9cd9538cb0a2ca0a9dbf90b557d4650d61d7adc05cb2e8d04bf061546a7c",
+  "versionCode": 21,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.2/NutriPlanAI.apk",
+  "changelog": "• Pagina \"Preferenze alimentari\" rinnovata, in linea con la pagina Profilo: sezioni in card con icone (stile alimentare, allergie, gusti) e i selettori di pasti, tempo di cottura e budget raggruppati sotto \"La tua giornata\".",
+  "sha256": "cc78e636f6f6367fbf340798ae85cffe93bf91463b0b2c5f28de257cbb5279bf",
   "apkSizeBytes": 25029109,
   "mandatory": false,
   "minSupportedVersionCode": 0
