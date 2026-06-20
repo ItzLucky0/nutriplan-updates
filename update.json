@@ -1,10 +1,10 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.6/NutriPlanAI.apk",
-  "changelog": "• Lista della spesa rinnovata: riepilogo in alto con avanzamento (presi su totale, barra e percentuale), e ogni categoria è una card con la sua icona e il conteggio.",
-  "sha256": "086ffef439f65f5c19c0d74b44b03dcf0b922445dc950955b7d616d3a7cab8d2",
-  "apkSizeBytes": 25045493,
+  "versionCode": 26,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.7/NutriPlanAI.apk",
+  "changelog": "• Pagina Backup e dati rinnovata: azioni più chiare con icone in evidenza, e il reset completo separato in una \"Zona pericolosa\".",
+  "sha256": "6ce6cc81ce3e9538df82ed88cedab430f25d600c6be53ed56fdf7e571679dc72",
+  "apkSizeBytes": 25045489,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
