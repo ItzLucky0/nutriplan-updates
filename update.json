@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "1.4.18",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.18/NutriPlanAI.apk",
-  "changelog": "• I preset creati con l'AI ora sono scomposti nei singoli alimenti: per ogni pasto vedi i singoli cibi con la loro quantità (es. pollo 150 g, patate 200 g), così sai quanto preparare e mangiare di ciascuno.\n• Nell'editor i pasti sono raggruppati per tipo (colazione, pranzo, spuntino, cena) con il subtotale di calorie.",
-  "sha256": "69235c98f26f308eb7087fbd871c783d761269ca551e2ae726edcdfd0baf223a",
-  "apkSizeBytes": 25061877,
+  "versionCode": 38,
+  "versionName": "1.4.19",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.19/NutriPlanAI.apk",
+  "changelog": "• Nel Diario ogni pasto ha ora un pulsante Genera con AI: crea quel pasto (in singoli alimenti con le quantità) bilanciandolo su ciò che hai già mangiato negli altri pasti e sui macro ancora mancanti per la giornata.\n• Puoi scrivere indicazioni all'AI (es. ricco di proteine, qualcosa di leggero). Gli alimenti generati restano modificabili.",
+  "sha256": "8fda5ca9f40a7b8da22b4e4b177540569e1bef483d04461fbc286e256e2f4848",
+  "apkSizeBytes": 25078261,
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
