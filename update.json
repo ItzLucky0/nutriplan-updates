@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "1.4.19",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.19/NutriPlanAI.apk",
-  "changelog": "• Nel Diario ogni pasto ha ora un pulsante Genera con AI: crea quel pasto (in singoli alimenti con le quantità) bilanciandolo su ciò che hai già mangiato negli altri pasti e sui macro ancora mancanti per la giornata.\n• Puoi scrivere indicazioni all'AI (es. ricco di proteine, qualcosa di leggero). Gli alimenti generati restano modificabili.",
-  "sha256": "8fda5ca9f40a7b8da22b4e4b177540569e1bef483d04461fbc286e256e2f4848",
+  "versionCode": 39,
+  "versionName": "1.4.20",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.20/NutriPlanAI.apk",
+  "changelog": "• Diario: il pulsante Genera con AI è ora centrato nella card del pasto.",
+  "sha256": "4aa4a63fcfa0b31700fd17db231b123b1f73097006a807bce1248f8847231432",
   "apkSizeBytes": 25078261,
   "mandatory": false,
   "minSupportedVersionCode": 0
