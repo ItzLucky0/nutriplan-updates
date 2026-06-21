@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "1.4.20",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.20/NutriPlanAI.apk",
-  "changelog": "• Diario: il pulsante Genera con AI è ora centrato nella card del pasto.",
-  "sha256": "4aa4a63fcfa0b31700fd17db231b123b1f73097006a807bce1248f8847231432",
+  "versionCode": 40,
+  "versionName": "1.4.21",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.21/NutriPlanAI.apk",
+  "changelog": "• Obiettivo con modalità: scegli il ritmo del dimagrimento — Tranquilla (dolce), Normale (equilibrata) o Estrema (veloce). Cambiando modalità cambiano automaticamente le settimane per arrivare all'obiettivo e le calorie al giorno.\n• Card riassuntiva del piano (settimane, kg a settimana, kcal al giorno) all'avvio e in Profilo e obiettivo. La modalità Estrema resta entro i limiti di sicurezza.",
+  "sha256": "08ca1555d39ae00e694a618b85175ffed5da722a6dd2d01c69a1367cb486bac0",
   "apkSizeBytes": 25078261,
   "mandatory": false,
   "minSupportedVersionCode": 0
