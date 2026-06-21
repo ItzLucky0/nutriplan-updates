@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "1.4.17",
-  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.17/NutriPlanAI.apk",
-  "changelog": "• Nuovo: crea un preset con l'AI. Nell'editor tocca Genera con AI (puoi dare un'indicazione, es. giorno proteico) e l'assistente prepara i pasti su misura.\n• Intelligente: se hai già inserito alcuni pasti, l'AI crea solo quelli mancanti restando nel budget calorico.\n• Rifinisci a chat (es. cena più leggera) e tocca un pasto per modificarlo a mano.",
-  "sha256": "8f8df5498e4d9e2cbd5c295cd519bdda50d78bf5054156d19bd4a3698571d5c5",
+  "versionCode": 37,
+  "versionName": "1.4.18",
+  "apkUrl": "https://github.com/ItzLucky0/nutriplan-updates/releases/download/v1.4.18/NutriPlanAI.apk",
+  "changelog": "• I preset creati con l'AI ora sono scomposti nei singoli alimenti: per ogni pasto vedi i singoli cibi con la loro quantità (es. pollo 150 g, patate 200 g), così sai quanto preparare e mangiare di ciascuno.\n• Nell'editor i pasti sono raggruppati per tipo (colazione, pranzo, spuntino, cena) con il subtotale di calorie.",
+  "sha256": "69235c98f26f308eb7087fbd871c783d761269ca551e2ae726edcdfd0baf223a",
   "apkSizeBytes": 25061877,
   "mandatory": false,
   "minSupportedVersionCode": 0
